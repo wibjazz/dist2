@@ -1,0 +1,2 @@
+[05-May-2015 00:01:12 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/k4722283/public_html/erp/po/pages/route/grafik/chart.php on line 86
+[08-Oct-2015 08:42:05 Asia/Jakarta] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'k4722283_root'@'localhost' (using password: YES) in /home/alhircom/public_html/erp/po/pages/route/grafik/chart-trad.php on line 6
